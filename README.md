@@ -99,4 +99,4 @@ To visualize the insights derived from the analysis, dashboards are created usin
 
 #### Conclusion
 
-By conducting a thorough HR data analysis and creating interactive dashboards, Fussion Innovista aims to gain valuable insights into the factors driving employee attrition. This data-driven approach will aid in developing targeted strategies to improve employee retention, thereby enhancing overall organizational performance. The use of Python for data cleaning ensures the accuracy of the analysis, while Power BI and Excel dashboards provide an effective medium for communicating these insights to stakeholders.
+By conducting a thorough HR data analysis and creating interactive dashboards, Fussion Innovista aims to gain valuable insights into the factors driving employee attrition. This data-driven approach will aid in developing targeted strategies to improve employee retention, thereby enhancing overall organizational performance. The use of Python for data cleaning ensures the accuracy of the analysis, while Power BI and Excel dashboards provide an effective medium for communicating these insights to stakeholders of Fussion Innovista.
