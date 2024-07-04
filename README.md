@@ -95,6 +95,12 @@ To visualize the insights derived from the analysis, dashboards are created usin
    - **Departmental Analysis**: A heatmap highlighting departments with high attrition rates.
    - **Interactive Filters**: Filters for job roles, performance ratings, and tenure to drill down into specific segments.
 
+### Snapsort of Final Dashboard
+![Screenshot 2024-07-04 103046](https://github.com/ritik0912kumar/HR-DATA-ANALYSIS/assets/126445623/a3543acd-10f9-468f-98b7-5a2374cb68f3)
+
+![Screenshot 2024-07-04 103109](https://github.com/ritik0912kumar/HR-DATA-ANALYSIS/assets/126445623/448256ab-ebb4-4603-a909-0676247702c1)
+
+
 2. **Excel Dashboard**:
    - **Pivot Tables**: To summarize attrition data by age, salary, and department.
    - **Charts and Graphs**: Line charts for trend analysis and pie charts for proportional representation.
