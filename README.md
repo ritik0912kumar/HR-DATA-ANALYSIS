@@ -55,6 +55,9 @@ Before diving into the analysis, it is essential to clean the data to ensure acc
    ```python
    data.drop_duplicates(inplace=True)
    ```
+### Snapsort of Cleaned Data
+![Screenshot 2024-07-04 103159](https://github.com/ritik0912kumar/HR-DATA-ANALYSIS/assets/126445623/e93403ec-cc3a-4636-ba81-3b37652eb592)
+
 
 #### Data Analysis
 
